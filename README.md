@@ -76,10 +76,10 @@ I enjoy turning complex requirements into **simple, elegant, and maintainable so
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taimoor-khan-03&show_icons=true&theme=dracula&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taimoor-khan-03&layout=compact&theme=dracula" height="150"/>
-</div>
+<p align="center">
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=taimoor-khan-03&show_icons=true&theme=dracula&count_private=true)
+  ![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=taimoor-khan-03&layout=compact&theme=dracula)
+</p>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=taimoor-khan-03&theme=dracula" height="150"/>
